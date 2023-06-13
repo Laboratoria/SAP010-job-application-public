@@ -1,7 +1,7 @@
 # Job Application
 
-Recursos para el proyecto Job Application abiertos a personas externas:
+Recursos para o projeto Job Application abertos a pessoas externas:
 
-- [Guía con aspectos generales del proyecto y mentorías](./00-context/README.md)
-- [Evaluaciones y feedback RH](./01-hr-mentoring/interviewer-guide/README.md)
-- [Evaluaciones y feedback Tech](./02-tech-mentoring/interviewer-guide/README.md)
+- [Guia com aspectos gerais do projeto e mentorias](./00-context/README.pt-BR.md)
+- [Avaliações e feedback RH](./01-hr-mentoring/interviewer-guide/README.pt-BR.md)
+- [Avaliações e feedback Tech](./02-tech-mentoring/interviewer-guide/README.pt-BR.md)
