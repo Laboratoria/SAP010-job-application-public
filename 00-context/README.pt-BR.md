@@ -98,12 +98,12 @@ revisão e feedback das ferramentas com a simulação.**
 
 |                    Atividades                        |   Tipo   | Semana        | Dia/hora           |
 |----------------------------------------------------- |----------|---------------|--------------------|
-| Sessão de perguntas e respostas sobre o programa.    |   Fixa   |               |  05/10 às 18h00    |
-| Sessão de revisão e feedback de CV + LinkedIn.       |   Fixa   |               |  13/10 às 18h00    |
-| Sessão de acompanhamento do feedback.                | Aberta   |  17 a 20/10   |                    |
-| Enviar formulário de avaliação e feedback CV/LinkedIn| Aberta   |  24 a 28/10   |                    |
-| Simulação de entrevista de recursos humanos.         | Aberta   |  31/10 a 11/11|                    |         
-| Enviar formulário de avaliação e feedback entrevista.| Aberta   |  14 a 18/11   |                    |
+| Sessão de perguntas e respostas sobre o programa.    |   Fixa   |               |  06/07 às 18h30    |
+| Sessão de revisão e feedback de CV + LinkedIn.       |   Fixa   |               |  20/07 às 18h30    |
+| Sessão de acompanhamento do feedback.                | Aberta   |  17 a 28/07   |                    |
+| Enviar formulário de avaliação e feedback CV/LinkedIn| Aberta   |  24 a 28/07   |                    |
+| Simulação de entrevista de recursos humanos.         | Aberta   |  07 a 11/08   |                    |         
+| Enviar formulário de avaliação e feedback entrevista.| Aberta   |  14 a 18/08   |                    |
 
 ### Objetivos de aprendizagem
 
