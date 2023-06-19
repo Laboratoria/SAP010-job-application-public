@@ -163,4 +163,4 @@ ponto ‘X’ e prepare a resposta de forma mais estruturada”.*
 O espaço de perguntas e respostas agendado pela equipe será a oportunidade de tirar suas dúvidas sobre os aspectos a serem avaliados durante as
 sessões e as considerações mais relevantes para o feedback às estudantes. Se por algum motivo você não puder comparecer a essa sessão, você também
 pode entrar em contato com a pessoa da equipe com quem você manteve comunicação direta sobre sua participação no projeto através dos e-mails
-*samanta.c@laboratoria.la* e *rosimary@laboratoria.la* . Agradecemos por sua valiosa contribuição!
+*samanta.c@laboratoria.la* e *fernanda.ferreira@laboratoria.la*. Agradecemos por sua valiosa contribuição!
